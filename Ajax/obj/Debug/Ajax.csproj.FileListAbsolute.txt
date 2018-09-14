@@ -1,0 +1,6 @@
+c:\users\aprendiz\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Ajax.dll.config
+c:\users\aprendiz\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Ajax.dll
+c:\users\aprendiz\documents\visual studio 2013\Projects\Ajax\Ajax\bin\Ajax.pdb
+c:\users\aprendiz\documents\visual studio 2013\Projects\Ajax\Ajax\obj\Debug\Ajax.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2013\Projects\Ajax\Ajax\obj\Debug\Ajax.dll
+c:\users\aprendiz\documents\visual studio 2013\Projects\Ajax\Ajax\obj\Debug\Ajax.pdb
